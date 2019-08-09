@@ -1,2 +1,3 @@
-# hello-word
-just another depository
+Hi humns!
+
+hubot here, I like node
